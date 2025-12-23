@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Falling Behind",
+  "base_artist": "Laufey",
+  "createdAt": "2025-12-23T14:40:19.043608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "Queensrÿche",
+      "has_synced": false,
+      "path": "select/01_Falling_Behind_Queensrÿche.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/02_Falling_Behind_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Falling Behind - Live",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/03_Falling_Behind_-_Live_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Falling Behind (Live)",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/04_Falling_Behind_(Live)_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Falling Behind (5.1 mix)",
+      "artist": "Queensrÿche",
+      "has_synced": false,
+      "path": "select/05_Falling_Behind_(5.1_mix)_Queensrÿche.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "Dead By April",
+      "has_synced": false,
+      "path": "select/06_Falling_Behind_Dead_By_April.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/07_Falling_Behind_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Falling Behind (Live at The Symphony)",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/08_Falling_Behind_(Live_at_The_Symphony)_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "Dead by April",
+      "has_synced": true,
+      "path": "select/09_Falling_Behind_Dead_by_April.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Falling Behind (demo)",
+      "artist": "Dead By April",
+      "has_synced": true,
+      "path": "select/10_Falling_Behind_(demo)_Dead_By_April.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/11_Falling_Behind_Laufey.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "rhyu",
+      "has_synced": true,
+      "path": "select/12_Falling_Behind_rhyu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Falling Behind",
+      "artist": "Rhyu",
+      "has_synced": false,
+      "path": "select/13_Falling_Behind_Rhyu.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Falling Behind - Live at The Symphony",
+      "artist": "Laufey feat. Iceland Symphony Orchestra",
+      "has_synced": true,
+      "path": "select/14_Falling_Behind_-_Live_at_The_Symphony_Laufey_feat._Iceland_Symphony_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Falling Behind (Live at The Symphony)",
+      "artist": "Laufey, Iceland Symphony Orchestra, Spencer Stewart",
+      "has_synced": true,
+      "path": "select/15_Falling_Behind_(Live_at_The_Symphony)_Laufey,_Iceland_Symphony_Orchestra,_Spencer_Stewart.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Falling Behind",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Falling_Behind_Laufey.txt"
+    }
+  ]
+}
